@@ -185,6 +185,6 @@ Observability via health and metrics APIs
 
 ## 🎥 Demo Video
 
-Click the image below to watch the full demo of the Notification Service:
+Click the text below to watch the full demo of the Notification Service:
 
 [Notification Service Demo](https://youtu.be/kUpA0Ghv2hY)
